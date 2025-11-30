@@ -1,0 +1,111 @@
+[
+  {
+    "id": 2,
+    "firebaseId": "Dogstar", "imagen": "Dogstar.png", "nombre": "Dogstar", "categoria": "Alimentos y bebidas",
+    "descorta": "Hamburguesas, hotdogs, pastas, pizzas y variedad de snacks con excelente sabor y bebidas frías para acompañar.",
+    "estrellas": null, "domicilio": true, "local": true, "tarjtransf": true, "24hrs": false, "pagina": "Premium.html",
+    "deslarga": "Dogstar ofrece un menú variado con hamburguesas jugosas, hotdogs, pastas, pizzas, alitas y boneless preparados al momento y con gran sabor. Cada platillo está pensado para brindar porciones generosas y una experiencia que realmente satisface. Contamos con bebidas frías y opciones ideales para disfrutar con amigos, familia o en pareja. Actualmente contamos con dos sucursales: Atoyac y Corral Falso, ambas con el mismo compromiso de calidad y buen servicio. En Dogstar siempre encontrarás un lugar donde comer rico, rápido y con excelente atención.",
+    "horario": null,
+    "llamadas": null, "whatsapp": "742 123 5996", "whatsapp2": "744 326 2325", "facebook": "share/1BhLGmWDHU/", "facebook2": "share/1a7J9PKhqM/", "instagram": "@dogstar_cf", "tiktok": null, "web": null,
+    "facebook_text": "Dogstar", "facebook_text2": "Dogstar Atoyac", "web_text": null, "menu": "DogstarMenu.pdf",
+    "carrucel1": "Dogstar1.png", "carrucel2": "Dogstar2.png", "carrucel3": "Dogstar3.png",
+    "sucursal1": "Dogstar - Atoyac", "sucursal2": "Dogstar - Corral Falso",
+    "mapa2": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2774.4112984650046!2d-100.46236813859207!3d17.174464667599082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb2f2c15d69967%3A0x1c11eaef70277a23!2sDOGSTAR!5e0!3m2!1ses-419!2smx!4v1764445953886!5m2!1ses-419!2smx"
+  },
+  {
+    "id": 3,
+    "firebaseId": "TacosLute", "imagen": "TLute.png", "nombre": "Tacos Lute", "categoria": "Alimentos y bebidas",
+    "descorta": "La mejor barbacoa de chivo y res de la Costa Grande, preparada con tradición desde 1978.",
+    "estrellas": null, "domicilio": true, "local": true, "tarjtransf": false, "24hrs": false, "pagina": "Premium.html",
+    "deslarga": "Tacos Lute, fundado en 1978, es un referente gastronómico de la Costa Grande por su tradición, autenticidad y calidad. Su barbacoa de chivo y res destaca por la cuidadosa selección de ingredientes, marinados tradicionales y cocción lenta que conserva jugos y sabor. Cada taco refleja décadas de experiencia y un sazón familiar que ha conquistado a locales y visitantes. Es un lugar donde la tradición se mantiene viva en cada preparación.",
+    "horario": "Todos los días. 8:00 AM a 5:00 PM.",
+    "llamadas": "742 105 1494", "whatsapp": "742 105 1494", "facebook": "share/1AD6dgQYLK/", "instagram": "@tacosluteoficial", "tiktok": null, "web": null,
+    "facebook_text": "Tacos Lute", "web_text": null, "menu": null,
+    "carrucel1": "TLute1.png", "carrucel2": "TLute2.png", "carrucel3": "TLute3.png", "sucursal1": null,
+    "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d283.2676171680124!2d-100.43527309379853!3d17.210075383079136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb3aab73d27973%3A0xb0d6da9150f4d2d!2sTACOS%20LUTE!5e0!3m2!1ses-419!2smx!4v1764441511009!5m2!1ses-419!2smx"
+  },
+  {
+    "id": 4,
+    "firebaseId": null, "imagen": "CVHFeliz.png", "nombre": "Clínica Veterinaria \"Huellita Feliz\"", "categoria": "Animales y mascotas",
+    "descorta": "Atención profesional para el bienestar de tus mascotas, brindando servicios médicos, preventivos y de cuidado con un trato responsable.",
+    "estrellas": null, "domicilio": true, "local": true, "tarjtransf": true, "24hrs": true, "pagina": "Basic.html",
+    "deslarga": "Clínica Veterinaria \"Huellita Feliz\" ofrece atención profesional y cercana para el cuidado integral de tus mascotas. Su equipo brinda consultas, diagnósticos, vacunación y tratamientos con un enfoque responsable. Las instalaciones están pensadas para su comodidad, promoviendo prevención y bienestar en cada visita. Gracias a su trato amable y compromiso, se ha convertido en una opción confiable para las familias de la comunidad.<br>Nuestros servicios:<br>✔ Consulta médica<br>✔ Vacunación<br>✔ Exámenes de laboratorio<br>✔ Desparasitación interna<br>✔ Control de pulgas y garrapatas<br>✔ Tratamientos<br>✔ Curaciones<br>✔ Esterilizaciones<br>✔ Profilaxis dental",
+    "horario": "Martes a Domingo. 10:00 AM - 6:00 PM.",
+    "llamadas": "742 106 7150", "whatsapp": "742 106 7150", "whatsapp2": "742 110 9372", "facebook": null, "instagram": null, "tiktok": null, "web": null,
+    "facebook_text": null, "web_text": null, "menu": null, "sucursal1": null,
+    "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d238.19362261070083!2d-100.4329141095003!3d17.21403638987967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1764441855576!5m2!1ses-419!2smx"
+  },
+  {
+    "id": 5,
+    "firebaseId": null, "imagen": "TPExpress.png", "nombre": "Tío Pollo Express", "categoria": "Alimentos y bebidas",
+    "descorta": "Pollo fresco, jugoso y con el sazón casero que tanto gusta. Rápido, delicioso y siempre al mejor precio.",
+    "estrellas": null, "domicilio": true, "local": true, "tarjtransf": false, "24hrs": false, "pagina": "Basic.html",
+    "deslarga": "Tío Pollo Express es la opción ideal para quienes buscan pollo preparado con sabor auténtico y porciones generosas. Nuestro menú está pensado para ofrecer calidad, frescura y un sazón casero que recuerda a la cocina tradicional. Elaboramos cada receta al momento, garantizando un sabor inigualable y una experiencia satisfactoria. Ya sea para comer en familia, pedir para llevar o disfrutar algo rápido, siempre tendrás un platillo caliente y bien servido. En Tío Pollo Express te atendemos con rapidez, buen trato y precios accesibles para todos.",
+    "horario": "Miércoles a Lunes. 9:00 AM a 6:00 PM.",
+    "llamadas": "742 105 1494", "llamadas2": "742 688 2428", "whatsapp": null, "facebook": null, "instagram": null, "tiktok": null, "web": null,
+    "facebook_text": null, "web_text": null, "menu": null, "sucursal1": "Tío Pollo Express - Atoyac",
+    "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238.2050576999222!2d-100.4381880176414!3d17.20515602119747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb25a3ed05c5cd%3A0xd19adbff025ee158!2sTaco%20Expr%C3%A9ss!5e0!3m2!1ses-419!2smx!4v1764441720498!5m2!1ses-419!2smx"
+  },
+  {
+    "id": 6,
+    "firebaseId": null, "imagen": "DEA.png", "nombre": "Distribuidora Eléctrica Atoyac", "categoria": "Construcción, materiales y reparaciones",
+    "descorta": "Material eléctrico de calidad, excelentes precios y asesoría confiable para cualquier proyecto. Todo lo que necesitas en un solo lugar.",
+    "estrellas": null, "domicilio": true, "local": true, "tarjtransf": true, "24hrs": false, "pagina": "Basic.html",
+    "deslarga": "Distribuidora Eléctrica Atoyac es tu aliado en materiales y equipo eléctrico para instalaciones residenciales, comerciales e industriales. Ofrecemos productos de marcas confiables, precios competitivos y asesoría personalizada para cada proyecto. Contamos con cableado, iluminación, tubería, herramientas y una amplia variedad de accesorios. Nuestro compromiso es brindarte disponibilidad, buen servicio y soluciones prácticas. En Distribuidora Eléctrica Atoyac trabajamos para hacer tus compras rápidas, seguras y eficientes.",
+    "horario": "Lunes a Sábado. 8:20 AM a 6:30 PM.",
+    "llamadas": "742 423 3154", "whatsapp": "742 109 5974", "facebook": null, "instagram": null, "tiktok": null, "web": null,
+    "facebook_text": null, "web_text": null, "menu": null, "sucursal1": null,
+    "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d952.7967155470517!2d-100.434759!3d17.209722!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb3aab9bb00b23%3A0x97552ea896ed9280!2sDistribuidora%20El%C3%A9ctrica%20Atoyac!5e0!3m2!1ses-419!2smx!4v1764441979475!5m2!1ses-419!2smx"
+  },
+  {
+    "id": 7,
+    "firebaseId": null, "imagen": "PorkyGrill.png", "nombre": "Porky Grill", "categoria": "Alimentos y bebidas",
+    "descorta": "Hamburguesas jugosas, deliciosos snacks y bebidas bien frías, todo con un toque único a la parrilla que resalta el sabor en cada bocado.",
+    "estrellas": null, "domicilio": true, "local": true, "tarjtransf": true, "24hrs": false, "pagina": "Basic.html",
+    "deslarga": "Porky Grill destaca por su especialidad en el grill, ofreciendo hamburguesas jugosas, snacks llenos de sabor y bebidas frescas para acompañar. Cada platillo se prepara con técnicas a la parrilla que realzan el sabor y la textura. Nuestro menú está pensado para quienes buscan una experiencia diferente, con porciones generosas y un sazón auténtico. Contamos con opciones ideales para comer en familia, con amigos o simplemente disfrutar un antojo bien preparado. En Porky Grill encontrarás calidad, sabor y un estilo único en cada visita.",
+    "horario": "Martes a Domingo. 4:00 PM a 11:30 PM.",
+    "llamadas": null, "whatsapp": "742 102 9575", "facebook": null, "instagram": null, "tiktok": null, "web": null,
+    "facebook_text": null, "web_text": null, "menu": "PorkyGrillMenu.pdf", "sucursal1": null,
+    "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3811.228014474511!2d-100.436882!3d17.207724499999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb3b490cc6e579%3A0x7907527791239ff1!2sPorky%20Grill!5e0!3m2!1ses-419!2smx!4v1764455085381!5m2!1ses-419!2smx"
+  },
+  {
+    "id": 8,
+    "firebaseId": "DChispita", "imagen": "DChispita.jpg", "nombre": "Divertishow Chispita", "categoria": "Entretenimiento y ocio",
+    "descorta": "Animación infantil llena de diversión para hacer cada fiesta única y especial. Perfecta para crear momentos inolvidables.",
+    "estrellas": null, "domicilio": true, "local": false, "tarjtransf": true, "24hrs": false, "pagina": "Basic.html",
+    "deslarga": "Divertishow Chispita es una animadora infantil que convierte cualquier fiesta en un evento lleno de alegría, juegos y participación. Su energía, carisma y trato con los niños hacen que cada dinámica sea divertida, segura y memorable. Ofrece shows interactivos, concursos, baile, risas y entretenimiento adaptado a cada tipo de evento. Su objetivo es que todos los pequeños se diviertan y los papás disfruten sin preocupaciones. Con Divertishow Chispita tu fiesta estará llena de magia, entusiasmo y buen ambiente.<br>✔ Activación de negocios<br>✔ Baby shower's<br>✔ Fiestas infantiles<br>✔ Pintacaritas<br>✔ Despedidas de soltera",
+    "horario": null, "llamadas": null, "whatsapp": "742 110 6543", "facebook": null, "instagram": null, "tiktok": null, "web": null,
+    "facebook_text": null, "web_text": null, "menu": null, "sucursal1": null,
+    "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30489.9834699188!2d-100.45334093335927!3d17.206757553572753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb25460f0c5775%3A0x2eb016bf13c5e1b1!2s40930%20Atoyac%20de%20%C3%81lvarez%2C%20Gro.!5e0!3m2!1ses-419!2smx!4v1764456954797!5m2!1ses-419!2smx"
+  },
+  {
+    "id": 9,
+    "firebaseId": null, "imagen": "AitanasBZ.jpg", "nombre": "Aitana's Beauty Zone", "categoria": "Educación, cursos y talleres",
+    "descorta": "Academia formadora de profesionales en belleza, con cursos prácticos, actualizados y diseñados para impulsar talentos y habilidades.",
+    "estrellas": null, "domicilio": false, "local": true, "tarjtransf": true, "24hrs": false, "pagina": "Basic.html",
+    "deslarga": "Aitana's Beauty Zone es una academia de belleza dedicada a formar profesionales con técnicas actualizadas y enfoque práctico. Ofrecemos cursos diseñados para desarrollar habilidades reales en áreas como maquillaje, uñas, piel, peinados y más. Nuestra misión es brindar enseñanza de calidad, accesible y con acompañamiento personalizado. Aquí encontrarás un ambiente de aprendizaje dinámico, seguro y motivador. En Aitana's Beauty Zone impulsamos tu talento para que logres crecer y destacar en el mundo de la belleza otorgando diplomados en:<br>✔ Aplicación y decoración de uñas<br>✔ Color y transformación en el cabello<br>✔ Estilismo y diseño de imagen<br>✔ Maquillaje del rostro<br>✔ Peluquería y barbería",
+    "horario": "Martes a Domingo. 9:00 AM a 4:00 PM.", "llamadas": null, "whatsapp": "742 423 3367", "facebook": null, "instagram": null, "tiktok": null, "web": null,
+    "facebook_text": null, "web_text": null, "menu": null, "sucursal1": null,
+    "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3811.2552641123725!2d-100.4364183!3d17.2064017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb2554dc13a72f%3A0x914a4ffc9f400e63!2sAquiles%20Serd%C3%A1n%2046%2C%20Dorotea%2C%2040945%20Atoyac%20de%20%C3%81lvarez%2C%20Gro.!5e0!3m2!1ses-419!2smx!4v1764458994468!5m2!1ses-419!2smx"
+  },
+  {
+    "id": 10,
+    "firebaseId": null, "imagen": "PGutty.jpg", "nombre": "Payaso Gutty", "categoria": "Entretenimiento y ocio",
+    "descorta": "¡Porque los niños lo pidieron! Diversión, risas, juegos y show infantil para animar cualquier fiesta con energía y buen humor.",
+    "estrellas": null, "domicilio": true, "local": false, "tarjtransf": true, "24hrs": false, "pagina": "Basic.html",
+    "deslarga": "Payaso Gutty ofrece un espectáculo lleno de alegría, juegos dinámicos y risas para hacer de cada fiesta un momento especial. Con carisma, energía y experiencia en animación infantil, interactúa con los pequeños mediante concursos, chistes y actividades participativas. Su objetivo es lograr que todos se diviertan mientras los papás disfrutan sin preocupaciones. Además, adapta su show a diferentes tipos de eventos y edades. Payaso Gutty es la opción ideal para llevar ambiente, diversión y un recuerdo inolvidable a cualquier celebración.",
+    "horario": null, "llamadas": null, "whatsapp": "742 114 7705", "facebook": null, "instagram": null, "tiktok": null, "web": null,
+    "facebook_text": null, "web_text": null, "menu": null, "sucursal1": null,
+    "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30489.9834699188!2d-100.45334093335927!3d17.206757553572753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb25460f0c5775%3A0x2eb016bf13c5e1b1!2s40930%20Atoyac%20de%20%C3%81lvarez%2C%20Gro.!5e0!3m2!1ses-419!2smx!4v1764456954797!5m2!1ses-419!2smx"
+  },
+  {
+    "id": 11,
+    "firebaseId": null, "imagen": "DrFray.jpg", "nombre": "Dr. Fray Serrano", "categoria": "Salud, bienestar y farmacias",
+    "descorta": "Atención dermatológica profesional en padecimientos de la piel, procedimientos quirúrgicos y tratamientos cosméticos para mejorar salud y apariencia.",
+    "estrellas": null, "domicilio": false, "local": true, "tarjtransf": true, "24hrs": false, "pagina": "Basic.html",
+    "deslarga": "El Dr. Fray Serrano ofrece atención especializada en dermatología médica, quirúrgica y cosmética, brindando un enfoque integral para el cuidado de la piel. Atiende enfermedades cutáneas con precisión profesional y realiza procedimientos quirúrgicos seguros y efectivos. También ofrece tratamientos estéticos diseñados para mejorar la apariencia, textura y salud de la piel. Su consulta se distingue por el trato ético, diagnóstico confiable y resultados orientados al bienestar del paciente. Con el Dr. Fray Serrano encuentras una atención completa para mantener tu piel saludable y cuidada.",
+    "horario": "Citas previas.", "llamadas": "744 193 7124", "whatsapp": "742 688 5484", "facebook": null, "instagram": null, "tiktok": null, "web": null,
+    "facebook_text": null, "web_text": null, "menu": null, "sucursal1": null,
+    "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3811.0985249155124!2d-100.4314101641935!3d17.21400906345353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cb3aae811faa59%3A0x1ac82ed9e9816434!2sMontes%20de%20Oca%2019%2C%20Centro%2C%2040930%20Atoyac%20de%20%C3%81lvarez%2C%20Gro.!5e0!3m2!1ses-419!2smx!4v1764461420905!5m2!1ses-419!2smx"
+  }
+]
